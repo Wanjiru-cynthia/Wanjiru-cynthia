@@ -1,16 +1,14 @@
-## Hi there 👋
+# Cynthia Wanjiru
 
-<!--
-**Wanjiru-cynthia/Wanjiru-cynthia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Quantitative Finance | Washington University in St Louis 2026
 
-Here are some ideas to get you started:
+Quant Risk Management• Options Pricing • Portfolio Optimization • Equity Research • Hedge Funds
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Portfolio VaR Model](https://github.com/Wanjiru-cynthia/Portfolio-VaR-model)
+- [Monte Carlo Options Pricer](https://github.com/Wanjiru-cynthia/Monte-Carlo-Options-Pricing)
+- [Mean-Variance Portfolio Optimization](https://github.com/Wanjiru-cynthia/Mean-Variance-Portfolio-Optimization)
+
+## Connect
+- 📧 wanjiru@wustl.edu
+- 💼 [LinkedIn](https://linkedin.com/in/cynwanjiru)
