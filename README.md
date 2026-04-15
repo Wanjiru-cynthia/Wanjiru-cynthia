@@ -5,7 +5,7 @@ MSc Quantitative Finance | Washington University in St Louis 2026
 Quant Risk Management• Options Pricing • Portfolio Optimization • Equity Research • Hedge Funds
 
 ## Projects
-- [[Multi-Asset Risk Dashboard](https://github.com/Wanjiru-cynthia/Multi_Asset_Risk_Dashboard)
+- [Multi-Asset Risk Dashboard](https://github.com/Wanjiru-cynthia/Multi_Asset_Risk_Dashboard)
 - [Portfolio VaR Model](https://github.com/Wanjiru-cynthia/Portfolio-VaR-model)
 - [Monte Carlo Options Pricer](https://github.com/Wanjiru-cynthia/Monte-Carlo-Options-Pricing)
 - [Mean-Variance Portfolio Optimization](https://github.com/Wanjiru-cynthia/Mean-Variance-Portfolio-Optimization)
